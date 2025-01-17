@@ -1,14 +1,14 @@
-Instructuions  type
+Instructuions      type
 --------------------
-lui	           U-type	
-addi	         I-type	
-sd	           S-type	
-ld	           I-type	
-li	           Pseudo (I)	
-jal          	 J-type	
-ret          	 J-type	
-auipc	         U-type	
-beqz	         B-type	
-j	             J-type	
-sub	           R-type	
-lw	           I-type	
+lui	              U-type	
+addi	            I-type	
+sd	              S-type	
+ld	              I-type	
+li	              Pseudo (I)	
+jal          	    J-type	
+ret          	    J-type	
+auipc	            U-type	
+beqz	            B-type	
+j	                J-type	
+sub	              R-type	
+lw	              I-type	
